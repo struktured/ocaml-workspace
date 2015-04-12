@@ -2,4 +2,9 @@
 #require "oml"
 #require "archimedes"
 #require "containers"
+#require "mas_examples"
+
+open Mas_core
+open Mas_agents
+
 
